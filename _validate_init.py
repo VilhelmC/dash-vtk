@@ -9,7 +9,7 @@ import sys
 import importlib
 
 
-components_package = 'dash_vtk'
+components_package = 'dash_vtk2'
 
 components_lib = importlib.import_module(components_package)
 
