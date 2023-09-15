@@ -4,10 +4,10 @@
   "description": "React based declarative usage of vtk.js for Dash",
   "repository": {
     "type": "git",
-    "url": "git://github.com/VilhelmC/dash-vtk2.git"
+    "url": "git://github.com/VilhelmC/dash-vtk2.git",
   },
   "bugs": {
-    "url": "https://github.com/plotly/dash-vtk/issues"
+    "url": "https://github.com/plotly/dash-vtk/issues",
   },
   "homepage": "https://github.com/VilhelmC/dash-vtk2",
   "main": "build/index.js",
