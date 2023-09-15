@@ -1,5 +1,5 @@
 {
-  "name": "dash_vtk2",
+  "name": "dash_vtk",
   "version": "0.0.9",
   "description": "React based declarative usage of vtk.js for Dash",
   "repository": {
@@ -60,7 +60,7 @@
     "npm": ">=6.1.0"
   },
   "files": [
-    "dash_vtk2",
+    "dash_vtk",
     "src",
     "README.md",
     "docs",
