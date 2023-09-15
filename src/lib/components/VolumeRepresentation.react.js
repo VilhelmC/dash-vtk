@@ -15,7 +15,7 @@ export default function VolumeRepresentation(props) {
 };
 
 VolumeRepresentation.defaultProps = {
-  colorMapPreset: 'erdc_rainbow_bright',
+  colorMapPreset: 'Cold and Hot',
   colorDataRange: 'auto',
 };
 

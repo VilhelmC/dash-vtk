@@ -20,7 +20,7 @@ export default function VolumeDataRepresentation(props) {
 
 VolumeDataRepresentation.defaultProps = {
   scalarsType: 'Float32Array',
-  colorMapPreset: 'erdc_rainbow_bright',
+  colorMapPreset: 'Cold and Hot',
   colorDataRange: 'auto',
   volumeController: true,
   rescaleColorMap: true,
