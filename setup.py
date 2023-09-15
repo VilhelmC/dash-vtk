@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 
 with open('package.json') as f:
-    package = 'dash_vtk2' #json.load(f)
+    package = json.load(f)
 
 package_name = package["name"].replace(" ", "_").replace("-", "_")
 
