@@ -60,7 +60,7 @@
     "npm": ">=6.1.0"
   },
   "files": [
-    "dash_vtk",
+    "dash_vtk2",
     "src",
     "README.md",
     "docs",
