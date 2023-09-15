@@ -1,4 +1,4 @@
-import dash_vtk
+import dash_vtk2
 import base64
 import numpy as np
 
